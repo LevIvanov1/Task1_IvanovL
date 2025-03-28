@@ -38,7 +38,6 @@ while True:
 
 print("===========ZADANIE 3======================")
 age_input = input("Age: ")
-
 try:
         age = int(age_input)
         if age < 0:
